@@ -1,5 +1,5 @@
 # Ant Foraging Simulator
 
-![app logo](ant-foraging-simulator-swiftpm/app-logo.png)
+![app logo](app-logo.png)
 
 Description here
