@@ -20,6 +20,37 @@ Adding the fact that Ants are really intricate beings and have some amazing beha
 
 
 <p align="center">
+  <h3> Blue Ant</h3>
+  <img src="/readme-resources/blue_ant_sensors.png" width="100" height="100"/>
+  The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around.
+</p>
+
+<p align="center">
+  <h3> Blue Ant</h3>
+  <img src="/readme-resources/blue_ant_sensors.png" width="100" height="100"/>
+  The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around.
+</p>
+
+<p align="center">
+  <h3> Blue Ant</h3>
+  <img src="/readme-resources/blue_ant_sensors.png" width="100" height="100"/>
+  The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around.
+</p>
+
+<p align="center">
+  <h3> Blue Ant</h3>
+  <img src="/readme-resources/blue_ant_sensors.png" width="100" height="100"/>
+  The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around.
+</p>
+
+<p align="center">
+  <h3> Blue Ant</h3>
+  <img src="/readme-resources/blue_ant_sensors.png" width="100" height="100"/>
+  The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around.
+</p>
+
+<p align="center">
+  <h3> Blue Ant</h3>
   <img src="/readme-resources/blue_ant_sensors.png" width="100" height="100"/>
   The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around.
 </p>
