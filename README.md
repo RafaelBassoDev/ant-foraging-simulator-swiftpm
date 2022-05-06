@@ -12,8 +12,10 @@ Adding the fact that Ants are really intricate beings and have some amazing beha
 
 <hr>
 
-| ***Entity*** | ***Function*** | ***Image*** |
-| :---: | :---: | :---: |
+Here you can see a little more about the entities that are used on the simulation:
+
+| **Entity** | **Description** | **Image** |
+| :---: | :--- | :---: |
 | **Blue Ant** | The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around. | <img src="/readme-resources/blue_ant_sensors.png" width="150"/> |
 | **Red Ant** | When a Blue Ant finds some food, it will transform into a Red Ant. They will try to deliver the food to the colony. After delivering the food, it will turn into a Blue Ant yet again. | <img src="/readme-resources/red_ant_sensors.png" width="150"/> |
 | **Blue Pheromone** | While a Blue Ant wanders around, it will leave blue pheromones behind. Red ants will follow blue pheromones so that they can find a suitable path to the colony. | <img src="/readme-resources/blue_pheromone_trail.png" width="150"/> |
