@@ -1,8 +1,12 @@
 # Ant Foraging Simulator
 
+<br>
+
 <p align="center">
   <img src="/readme-resources/app-logo.png" width="400" height="400">
 </p>
+
+<br>
 
 In this project I decided to create an Ant Foraging Simulator, a project where some ants will wander around searching for food to bring back to their colony. As they walk, pheromones will be left on their path to help other ants to find the best route to some food or to the colony.
 
