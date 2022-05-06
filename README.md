@@ -14,7 +14,6 @@ I've been wanting to do this project for a while now, because since the beginnin
 
 Adding the fact that Ants are really intricate beings and have some amazing behaviors in the nature, I decided to face the challenge and use this simulator as my main idea to apply for the WWDC22 Swift Student Challenge.
 
-<br>
 <hr>
 
 ## Table of contents
