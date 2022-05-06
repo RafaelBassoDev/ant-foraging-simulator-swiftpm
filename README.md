@@ -55,6 +55,8 @@ Adding the fact that Ants are really intricate beings and have some amazing beha
  It is the beginning and the reason of everything. (At least for the ants...). This is where the journey of the Blue Ants will start, and will be the ending point for the Red Ants.
 </p>
 
-| Image  | Entity  |  Function  |
+| Entity | Function | Image |
 | :---: | :---: | :---: |
-| <img src="/readme-resources/blue_ant_sensors.png" width="50" height="50"/> | Blue Ant | The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around.  |
+| Blue Ant | The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around. | <img src="/readme-resources/blue_ant_sensors.png" width="150" height="150"/> |
+| Blue Ant | The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around. | <img src="/readme-resources/blue_ant_sensors.png" width="150" height="150"/> |
+| Blue Ant | The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around. | <img src="/readme-resources/blue_ant_sensors.png" width="150" height="150"/> |
