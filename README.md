@@ -54,3 +54,7 @@ Adding the fact that Ants are really intricate beings and have some amazing beha
   <img src="/readme-resources/brown_anthill.png" width="100" height="100"/>
  It is the beginning and the reason of everything. (At least for the ants...). This is where the journey of the Blue Ants will start, and will be the ending point for the Red Ants.
 </p>
+
+| Image  | Entity  |  Function  |
+| --- | --- | --- |
+| <img src="/readme-resources/blue_ant_sensors.png" width="100" height="100"/> | Blue Ant | The role of the Blue Ant is to search for food around the world. It has three pheromone sensors in front of their bodies so they can navigate around.  |
