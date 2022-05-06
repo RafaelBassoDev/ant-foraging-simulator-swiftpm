@@ -16,7 +16,6 @@ Adding the fact that Ants are really intricate beings and have some amazing beha
 
 <br>
 <hr>
-<br>
 
 ## Table of contents
 
