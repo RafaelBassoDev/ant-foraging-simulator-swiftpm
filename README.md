@@ -16,9 +16,9 @@ Adding the fact that Ants are really intricate beings and have some amazing beha
 
 <hr>
 
-## Table of contents
-
 Here you can see a little more about the entities that are used on the simulation:
+
+## Table of contents
 
 | **Entity** | **Description** | **Image** |
 | :---: | :--- | :---: |
