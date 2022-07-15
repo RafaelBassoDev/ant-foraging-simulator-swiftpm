@@ -40,13 +40,11 @@ Here you can see a little more about the entities that are used on the simulatio
 <p align="leading">
   <img src="/readme-resources/image_menu.png" width="400" height="400">
 </p>
-<br>
 
 ### Simulation
 <p align="leading">
   <img src="/readme-resources/image_simulation.png" width="400" height="400">
 </p>
-<br>
 
 ### Simulation Menu
 <p align="leading">
