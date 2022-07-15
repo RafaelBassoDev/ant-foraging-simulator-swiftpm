@@ -28,3 +28,27 @@ Here you can see a little more about the entities that are used on the simulatio
 | **Red Pheromone** | While walking, a Red Ant will leave red pheromones behind. Blue Ants will follow red pheromones so that they can find a path that will probably lead them to some food. | <img src="/readme-resources/red_pheromone_trail.png" width="150"/> |
 | **Food** | Food is one of the main aspects of the simulation. Blue Ants will search for it while Red Ants will deliver it to the colony, creating a cycle. | <img src="/readme-resources/green_food.png" width="150"/> |
 | **Anthill** | It is the beginning and the reason of everything. (At least for the ants...). This is where the journey of the Blue Ants will start, and will be the ending point for the Red Ants. | <img src="/readme-resources/brown_anthill.png" width="150"/> |
+
+<br>
+<hr>
+<br>
+
+## Screenshots
+
+<br>
+### Onboarding
+<p align="center">
+  <img src="/readme-resources/image_menu.png" width="400" height="400">
+</p>
+
+<br>
+### Simulation
+<p align="center">
+  <img src="/readme-resources/image_simulation.png" width="400" height="400">
+</p>
+
+<br>
+### Simulation Menu
+<p align="center">
+  <img src="/readme-resources/image_simulation_menu.png" width="400" height="400">
+</p>
