@@ -33,20 +33,20 @@ Here you can see a little more about the entities that are used on the simulatio
 <hr>
 <br>
 
-## Screenshots
+# Screenshots
 <br>
 
-### Onboarding
+## Onboarding
 <p align="leading">
-  <img src="/readme-resources/image_menu.png" width="400" height="400">
+  <img src="/readme-resources/image_menu.png" width="600" height="800">
 </p>
 
-### Simulation
+## Simulation
 <p align="leading">
-  <img src="/readme-resources/image_simulation.png" width="400" height="400">
+  <img src="/readme-resources/image_simulation.png" width="600" height="800">
 </p>
 
-### Simulation Menu
+## Simulation Menu
 <p align="leading">
-  <img src="/readme-resources/image_simulation_menu.png" width="400" height="400">
+  <img src="/readme-resources/image_simulation_menu.png" width="600" height="800">
 </p>
