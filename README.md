@@ -13,6 +13,10 @@ In this project I decided to create an Ant Foraging Simulator, a project where s
 I've been wanting to do this project for a while now, because since the beginning it amazed me and I always thought that there were a lot of things to learn in order to create a simulation.
 
 Adding the fact that Ants are really intricate beings and have some amazing behaviors in the nature, I decided to face the challenge and use this simulator as my main idea to apply for the WWDC22 Swift Student Challenge.
+
+This project was inspired, among other things, by Sebastian Lague's video:
+[Coding Adventure: Ant and Slime Simulations](https://www.youtube.com/watch?v=X-iSQQgOd1A).
+
 <br>
 <hr>
 <br>
